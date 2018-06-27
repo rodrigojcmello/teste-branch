@@ -1,1 +1,1 @@
-var teste = 123;
+var teste = 'teste';
